@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...<br>
 • 🎇I'm currently working on my data structures and algorithms.<br>
--  🎆Technologies I work 💻<br>
+-  🎆Technologies I work on 💻<br>
   ![image](https://user-images.githubusercontent.com/69623904/132010417-38e49e7e-fc01-43a4-9eec-4b9e87e72048.png)
   ![image](https://user-images.githubusercontent.com/69623904/132010621-724fa8f9-9427-4504-bb62-47a4f639084d.png)
   ![image](https://user-images.githubusercontent.com/69623904/132010741-bb961954-0a0e-4829-9d24-26b9f0e679d3.png)
